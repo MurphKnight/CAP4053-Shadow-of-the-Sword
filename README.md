@@ -1,13 +1,29 @@
 # CAP4053 - Shadow of the Sword
+
+## Table of contents
+* [General Info](#general-info)
+* [Technologies](#technologies)
+* [How to play the game](#how-to-play-the-game)
+* [Bugs](#bugs)
+* [Contributers](#contributers)
+* [3rd-party items in project](3rd-party-items-in-project)
+
+## General Info
 The final project for CAP 4053-AI for Game Programming at UCF, a video game created during a single semester by four students.
 
 Shadow of the Sword is video game created using Unity and C#. The game is focused on combat with two different types of enemies with probability based attacks and ability for players to parry attacks.
 
-## Contributers 
-- Megan Murphy
-- Hunter Davis
-- Julien Nashi
-- Jacob Roberts
+A Dark-Souls esque dungeon crawler mainly focusing on:
+- Attacking
+- Parrying enemy attacks
+- Telegraphing attacks from enemies
+- Minimalist enemy AI, walking to player and attacking picking one of three attacks
+
+
+## Technologies
+- Unity
+- C#
+
 
 ## How to play the game
 - Left click mouse to hit an enemy
@@ -20,6 +36,12 @@ Shadow of the Sword is video game created using Unity and C#. The game is focuse
 ## Bugs
 Players can use blocks on the walls to jump. This was originally a bug but was kept because it made navigating the map more interesting.
 Sprinting, moving backwards, and parrying/attacking would allow for faster movement through the level. In the case that someone wanted to find the fastest way through the game, this would be a potential method to follow.
+
+## Contributers 
+- Megan Murphy
+- Hunter Davis
+- Julien Nashi
+- Jacob Roberts
 
 ## 3rd-party items in project
 Animations
